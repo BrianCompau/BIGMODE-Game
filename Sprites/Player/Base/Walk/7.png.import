@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cq13ygwqajerj"
-path="res://.godot/imported/character_BIGMODEJAM_crab_base_walking.png-16bc489696ea7756a54df3ca52579f32.ctex"
+uid="uid://b6542dyql10rb"
+path="res://.godot/imported/7.png-c4de62a7c5b658a12373ada6ecfa49be.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Sprites/Player/character_BIGMODEJAM_crab_base_walking.png"
-dest_files=["res://.godot/imported/character_BIGMODEJAM_crab_base_walking.png-16bc489696ea7756a54df3ca52579f32.ctex"]
+source_file="res://Sprites/Player/Base/Walk/7.png"
+dest_files=["res://.godot/imported/7.png-c4de62a7c5b658a12373ada6ecfa49be.ctex"]
 
 [params]
 
@@ -31,4 +31,4 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
-detect_3d/compress_to=0
+detect_3d/compress_to=1
